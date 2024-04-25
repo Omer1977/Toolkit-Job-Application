@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "id": "2",
+      "position": "Backend Dev",
+      "company": "Kodlama",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "3/30/2023"
+    },
+    {
+      "id": "3",
+      "position": "Backend Dev",
+      "company": "Pixel",
+      "location": "Milano",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "2/18/2023"
+    },
+    {
+      "id": "6008624d-2b92-47eb-931f-75fe56c99e24",
+      "position": "Frontend Developer",
+      "company": "Mimcode",
+      "location": "Ankara",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "3/24/2024"
+    },
+    {
+      "id": "0040daf9-a95f-4a60-b11a-2f92e46eb5b0",
+      "position": "Data Scientist",
+      "company": "Zuby",
+      "location": "Komotini",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "4/18/2024"
+    },
+    {
+      "id": "5d5efc3b-f252-4b97-b024-980291e1f3f5",
+      "position": "Software Tester",
+      "company": "Seneca",
+      "location": "Prag",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": "4/18/2024"
+    },
+    {
+      "id": "cc13c990-8a95-473c-96e8-e0e6798043bd",
+      "position": "Frontend Developer",
+      "company": "Kodlama",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Staj",
+      "date": "25.04.2024"
+    }
+  ]
+}
